@@ -1,0 +1,41 @@
+What is your website about?
+The best movie in the world, The Princess Bride
+
+What information are you presenting on the subject?
+Why The Princess Bride is the best movie.
+<IMAGE OF DVD COVER>
+There are many good and even great movies out there in the world.  But there is only one movie that stands above the rest: The Princess Bride.  This movie has everything you could ever want in quality entertainment.  It appeals to both young and old of every generation. Read on for more information on why you should watch this movie.
+
+<IMAGE OF DPR?>
+What it has:
+Love (of the "true" variety)
+Humor
+Death
+Friendship
+Adventure
+Pirates
+
+<INCONCIEVABLE GIF?>
+What it does not have:
+A bad ending
+A proper use of the word "inconcievable"
+Evil winning over good
+
+When should you watch this movie?
+When you want to laugh.
+When you are sick and want to curl up with a bowl of soup.
+When you want a see a love story.
+When you want to watch a good movie with your kids.
+  
+Did you know?
+The Princess Bride is being made into a Broadway musical!
+
+What does your website look like (simple, high-level terms)?
+Bg-color: #3F68BF
+Font: Large bold font for the title, simple fonts for text content.
+
+<link href="https://fonts.googleapis.com/css?family=Oswald|Solway&display=swap" rel="stylesheet">
+
+font-family: 'Solway', serif;
+font-family: 'Oswald', sans-serif;
+
